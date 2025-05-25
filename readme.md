@@ -18,6 +18,14 @@
 | 商品 ID | 標題斷詞 | 敘述斷詞 |
 | 7104874 | 戰神 mars 搖搖杯 ml 夜幕 黑 | |
 
+- 商品文本字典 file：`SalePage_vacab.csv`
+
+| term | freq  | source | length | is_onechar | is_english | is_number | is_special | is_punctuation |
+|------|-------|--------|--------|------------|------------|-----------|------------|----------------|
+| 詞 | 詞頻  | 來自標題 or 敘述 {both, desc} | 詞長 | 是否為單一個字元 | 是否為英文 | 是否為數字 | 是否為特殊符號 | 是否為 Unicode 標點符號 |
+| 的   | 27380 | both   | 1      | True       | False      | False     | False      | False          |
+
+
 - 商品文本 BERT file：`SalePage_bertvecs.csv`
 	- 檔案太大了（1.8 GB），就先不上傳了
 
