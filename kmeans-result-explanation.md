@@ -65,3 +65,10 @@
 ### 消費者Persona可能是：
 
 - 商城是我家全聯拉，我老熟了大概平常有就需要這幾樣東西
+
+# Chart
+
+![image](https://github.com/user-attachments/assets/8911800e-3081-4579-9e5a-3b03613c4d80)
+
+![image](https://github.com/user-attachments/assets/7d62edce-a0f8-4c2b-b13a-67e4049dcb0d)
+
