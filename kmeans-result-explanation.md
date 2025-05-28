@@ -72,3 +72,8 @@
 
 ![image](https://github.com/user-attachments/assets/7d62edce-a0f8-4c2b-b13a-67e4049dcb0d)
 
+
+### 第二次分群
+Cluster1 和 Cluster3 交換
+唯 `dicount_sensitivity` 和原本分布有差，如附圖，左邊為新版。
+![alt text](<pic/截圖 2025-05-28 上午9.34.12.png>)
