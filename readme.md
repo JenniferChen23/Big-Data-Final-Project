@@ -106,6 +106,18 @@ Cluster cluster3 Top Keywords: 價格敏感
 	- cluster 3: 贈(17.49%), 安心(9.04%), 送(4.52%), 回饋(4.13%), 點數(3.93%), 免運(1.38%), 首選(0.39%), 實測(0.39%), 必買(0.20%),  優惠(0.20%), 折扣(0.20%), 促銷(0.20%), 超有感(0.20%), 品牌比他群少(0.79%)
 
 
+'滿' 在不同 Cluster 的比例:
+cluster0: 4.41%
+cluster1: 4.27%
+cluster2: 6.53%
+cluster3: 10.22%
+
+'限時特賣'=='特賣' 在不同 Cluster 的比例:
+cluster0: 2.38%
+cluster1: 2.01%
+cluster2: 1.87%
+cluster3: 0.98%
+
 ### emoji
 emoji 在不同 Cluster 的比例:
 cluster0: 0.79%
